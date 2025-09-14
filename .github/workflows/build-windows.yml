@@ -9,7 +9,6 @@ jobs:
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -21,14 +20,16 @@ jobs:
           pip install -r requirements_txt.txt
 
       - name: Build EXE (onefile, no console)
-        run: |
-          python build_script.py --onefile --name BVBChecker --noconsole
+        run: python build_script.py --onefile --name BVBChecker --noconsole
 
       - name: Package installer zip
+        shell: pwsh
         run: |
-          copy dist\BVBChecker.exe BVBChecker.exe
-          if not exist install.bat ( echo install.bat fehlt & exit /b 1 )
-          powershell Compress-Archive -Path BVBChecker.exe, install.bat -DestinationPath BVBChecker_Installer.zip -Force
+          $exe = "dist/BVBChecker.exe"
+          if (!(Test-Path $exe)) { Write-Error "EXE nicht gefunden: $exe"; exit 1 }
+          if (!(Test-Path "install.bat")) { Write-Error "install.bat fehlt (Repo-Root?)"; exit 1 }
+          Copy-Item $exe -Destination . -Force
+          Compress-Archive -Path "BVBChecker.exe","install.bat" -DestinationPath "BVBChecker_Installer.zip" -Force
 
       - name: Upload installer zip
         uses: actions/upload-artifact@v4
@@ -36,11 +37,9 @@ jobs:
           name: BVBChecker-Installer
           path: BVBChecker_Installer.zip
 
-
       - name: Upload EXE artifact
         uses: actions/upload-artifact@v4
         with:
           name: BVBChecker-exe
           path: dist/BVBChecker.exe
-
 
