@@ -1,421 +1,131 @@
 icd,title,group,eligibility,requires_second_icd,second_icd_hint,acute_window_months,notes,source_url,source_version
-B94.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C00,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C70.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C70.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C70.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C71.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C71.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C71.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C71.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C71.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C71.5,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C71.6,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C71.7,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C71.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C71.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C72.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C72.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C72.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C72.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C72.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C72.5,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C72.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C72.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-C97,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-E41,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-E74.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-E75.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-E76.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-E84,.-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-E88,.20,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F00.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F00.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F00.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F01.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F01.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F01.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F01.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F01.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F02.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F02.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F03,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F41.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F41.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F41.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F41.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F41.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F41.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F45,.40,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F80.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F80.2,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F83,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F84.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F84.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F84.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F84.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F84.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F84.5,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-F84.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G10,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G11.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G11.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G11.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G11.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G11.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G11.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G11.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G12.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G12.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G12.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G12.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G12.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G14,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G20.1,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G20.2,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G21.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G21.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G21.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G24.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G35.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G35.1,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G35.2,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G35.3,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G35.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G36.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G36.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G36.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G36.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G37.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G37.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G37.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G37.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G37.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G37.5,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G37.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G37.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G54.6,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G55.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G55.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G55.3,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G60.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G60.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G61.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G61.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G70.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G70.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G71.0,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G71.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G71.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G71.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G72.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G73.6,*,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G80.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G80.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G80.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G80.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G80.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G80.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G80.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G81.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G81.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G82.0,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G82.1,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G82.2,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G82.3,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G82.4,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G82.5,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G90.5,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G90.6,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G90.7,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G91.2,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G93,.80,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G93.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G95.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-G99.2,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-H81,.-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-H82,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I60.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I60.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I60.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I60.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I60.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I60.5,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I60.6,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I60.7,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I60.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I60.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I61.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I61.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I61.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I61.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I61.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I61.5,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I61.6,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I61.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I61.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I63.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I63.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I63.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I63.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I63.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I63.5,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I63.6,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I63.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I63.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I64,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I69.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I69.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I69.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I69.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I69.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I69.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I89,.01,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-I97,.21,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-J44,.00,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-J84,.10,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M05.0,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M05.1,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M05.2,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M05.3,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M05.8,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M05.9,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M06.0,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M06.1,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M07.0,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M07.1,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M07.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M07.3,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M07.4,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M07.5,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M07.6,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M08.0,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M08.1,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M08.2,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M08.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M08.4,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M08.7,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M08.8,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M08.9,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M13,.11,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M19,.01,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M23.5,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M24,.41,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M25,.01,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M30.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M31.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M32.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M32.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M33.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M33.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M33.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M34.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M34.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M34.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M34.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M34.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M36.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M40.0,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M40.1,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M41.0,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M41.1,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M41.2,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M41.5,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M42,.04,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M45.0,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M47.0,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M47.1,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M47.2,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M47.9,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M48.0,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M50.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M50.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M51.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M51.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M65,.01,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M66,.11,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M71,.01,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M75,.-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M75.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M80.0,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M80.2,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M80.3,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M80.5,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M80.8,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M84,.11,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M89.0,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M93,.21,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-M94,.21,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-N39.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-N39.4,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-P27.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-P27.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q01.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q01.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q01.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q01.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q01.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q03.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q03.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q03.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q03.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q04.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q04.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q04.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q04.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q04.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q04.5,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q04.6,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q04.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q04.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q05.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q05.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q05.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q05.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q05.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q05.5,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q05.6,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q05.7,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q05.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q05.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q06.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q06.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q06.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q06.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q06.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q06.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q06.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q37.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q37.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q37.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q37.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q37.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q37.5,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q37.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q37.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q66.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q68.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q71.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q71.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q71.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q71.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q71.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q71.5,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q71.6,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q71.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q71.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q72.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q72.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q72.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q72.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q72.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q72.5,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q72.6,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q72.7,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q72.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q72.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q73.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q73.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q73.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q74.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q78.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q79.6,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q82,.01,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q86,.80,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q87.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q87.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q87.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q90.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q90.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q90.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q90.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q91.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q91.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q91.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q91.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q91.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q91.5,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q91.6,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q91.7,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q93.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q93.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q93.5,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q96.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q96.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q96.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q96.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q96.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q96.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q96.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Q99.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-R13,.-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-R15,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-R26.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-R26.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-R26.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-R29.6,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-R32,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-R42,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-R52.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-R52.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-R64,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S06,.- klassifizierbar,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S06.0,Gehirner-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S06.1,- umfasst: bis,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S06.9,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S14.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S14.1,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S14.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S14.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S14.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S14.5,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S14.6,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S24.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S24.1,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S24.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S24.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S24.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S24.5,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S24.6,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S34.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S34.1,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S34.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S34.3,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S34.4,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S34.5,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S34.6,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S34.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S42,.-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S43,.-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S46,.-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-S49,.-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-T09.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-T20.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-T20.7,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-T21.3,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-T21.7,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-T22,.30,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-T22.3,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-T22.7,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-T23.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-T23.7,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-T24.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-T24.7,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-T25.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-T25.7,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-T29.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-T29.7,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-T84,.00,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-T90.5,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Z43.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Z89.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Z89.2,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Z89.3,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Z89.5,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Z89.6,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Z89.7,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Z89.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Z96,.60,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Z98.8,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Z99.0,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
-Z99.1,,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_2024.pdf,2024-01-01
+B94.1,Folgezustände der Virusenzephalitis,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C00,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C70.0,Hirnhäute,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C70.1,Rückenmarkhäute,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C70.9,Meningen nicht näher bezeichnet,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.0,Zerebrum ausgenommen Hirnlappen und Ventrikel,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.1,Frontallappen,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.2,Temporallappen,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.3,Parietallappen,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.4,Okzipitallappen,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.5,Hirnventrikel,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.6,Zerebellum,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.7,Hirnstamm,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.8,Gehirn mehrere Teilbereiche überlappend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.9,Gehirn nicht näher bezeichnet,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C72.0,Rückenmark,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C72.1,Cauda equina,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C72.2,Nn. olfactorii [I. Hirnnerv],,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C72.3,N. opticus [II. Hirnnerv],,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C72.4,N. vestibulocochlearis [VIII. Hirnnerv],,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C72.5,Sonstige und nicht näher bezeichnete Hirnnerven,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C72.8,Gehirn und andere Teile des Zentralnervensystems mehrere Teilbereiche überlappend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C72.9,Zentralnervensystem nicht näher bezeichnet,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G10,Chorea Huntington,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G11.0,Angeborene nichtprogressive Ataxie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G11.1,Früh beginnende zerebellare Ataxie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G11.2,Spät beginnende zerebellare Ataxie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G11.3,Zerebellare Ataxie mit defektem DNA-Reparatursystem,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G11.4,Hereditäre spastische Paraplegie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G11.8,Sonstige hereditäre Ataxien,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G11.9,Hereditäre Ataxie nicht näher bezeichnet,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G12.0,Infantile spinale Muskelatrophie Typ I [Typ Werdnig-Hofmann],,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G12.1,Sonstige vererbte spinale Muskelatrophie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G12.2,Motoneuron-Krankheit,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G12.8,Sonstige spinale Muskelatrophien und verwandte Syndrome,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G12.9,Spinale Muskelatrophie nicht näher bezeichnet,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G14,Postpoliosyndrom,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G20.1,Primäres Parkinson-Syndrom mit mäßiger bis schwerer Beeinträchtigung (Stadien 3 oder 4 nach Hoehn und Yahr),,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G20.2,Primäres Parkinson-Syndrom mit schwerster Beeinträchtigung (Stadium 5 nach Hoehn und Yahr),,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G21.3,Postenzephalitisches Parkinson-Syndrom,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G21.4,Vaskuläres Parkinson-Syndrom,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G21.8,Sonstiges sekundäres Parkinson-Syndrom,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G24.3,Torticollis spasticus,,BVB,False,,,nur bei gleichzeitiger leitliniengerechter medikamentöser Therapie,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G35.0,Erstmanifestation einer multiplen Sklerose,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G35.1,Multiple Sklerose mit vorherrschend schubförmigem Verlauf,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G35.2,Multiple Sklerose mit primär-chronischem Verlauf,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G35.3,Multiple Sklerose mit sekundär-chronischem Verlauf,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G35.9,Multiple Sklerose nicht näher bezeichnet,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G36.0,Neuromyelitis optica [Devic-Krankheit],,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G36.1,Akute und subakute hämorrhagische Leukoenzephalitis [Hurst],,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G36.8,Sonstige näher bezeichnete akute disseminierte Demyelinisation,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G36.9,Akute disseminierte Demyelinisation nicht näher bezeichnet,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G37.0,Diffuse Hirnsklerose,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G37.1,Zentrale Demyelinisation des Corpus callosum,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G37.2,Zentrale pontine Myelinolyse,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G37.3,Myelitis transversa acuta bei demyelinisierender Krankheit des Zentralnervensystems,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G37.4,Subakute nekrotisierende Myelitis [Foix-Alajouanine-Syndrom],,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G37.5,Konzentrische Sklerose [Baló-Krankheit],,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G37.8,Sonstige näher bezeichnete demyelinisierende Krankheiten des Zentralnervensystems,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G37.9,Demyelinisierende Krankheit des Zentralnervensystems nicht näher bezeichnet,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G60.0,Hereditäre sensomotorische Neuropathie,,BVB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G60.8,Sonstige hereditäre und idiopathische Neuropathien,,BVB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G61.0,Guillain-Barré-Syndrom,,BVB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G61.8,Sonstige Polyneuritiden,,BVB,False,,,nur chronisch inflammatorische demyelinisierende Polyradikuloneuropathie (CIDP),local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G70.0,Myasthenia gravis,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G70.2,Angeborene oder entwicklungsbedingte Myasthenie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G71.0,Muskeldystrophie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G71.1,Myotone Syndrome,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G71.2,Angeborene Myopathien,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G71.3,Mitochondriale Myopathie anderenorts nicht klassifiziert,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G72.3,Periodische Lähmung,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G72.4,Entzündliche Myopathie anderenorts nicht klassifiziert,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G73.6,Myopathie bei Stoffwechselerkrankungen,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G80.0,Spastische tetraplegische Zerebralparese,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G80.1,Spastische diplegische Zerebralparese,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G80.2,Infantile hemiplegische Zerebralparese,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G80.3,Dyskinetische Zerebralparese,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G80.4,Ataktische Zerebralparese,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G80.8,Sonstige infantile Zerebralparese,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G80.9,Infantile Zerebralparese nicht näher bezeichnet,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G81.0,Schlaffe Hemiparese und Hemiplegie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G81.1,Spastische Hemiparese und Hemiplegie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G82.0,Schlaffe Paraparese und Paraplegie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G82.1,Spastische Paraparese und Paraplegie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G82.2,Paraparese und Paraplegie nicht näher bezeichnet,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G82.3,Schlaffe Tetraparese und Tetraplegie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G82.4,Spastische Tetraparese und Tetraplegie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G82.5,Tetraparese und Tetraplegie nicht näher bezeichnet,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G91.2,Normaldruckhydrozephalus,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G93.1,Anoxische Hirnschädigung anderenorts nicht klassifiziert,,LHB,False,,,Wachkoma (apallisches Syndrom auch infolge Hypoxie),local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G93.80,Apallisches Syndrom,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G95.0,Syringomyelie und Syringobulbie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.0,Subarachnoidalblutung vom Karotissiphon oder der Karotisbifurkation ausgehend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.1,Subarachnoidalblutung von der A. cerebri media ausgehend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.2,Subarachnoidalblutung von der A. communicans anterior ausgehend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.3,Subarachnoidalblutung von der A. communicans posterior ausgehend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.4,Subarachnoidalblutung von der A. basilaris ausgehend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.5,Subarachnoidalblutung von der A. vertebralis ausgehend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.6,Subarachnoidalblutung von sonstigen intrakraniellen Arterien ausgehend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.7,Subarachnoidalblutung von nicht näher bezeichneter intrakranieller Arterie ausgehend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.8,Sonstige Subarachnoidalblutung,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.9,Subarachnoidalblutung nicht näher bezeichnet,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I61.0,Intrazerebrale Blutung in die Großhirnhemisphäre subkortikal,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I61.1,Intrazerebrale Blutung in die Großhirnhemisphäre kortikal,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I61.2,Intrazerebrale Blutung in die Großhirnhemisphäre nicht näher bezeichnet,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I61.3,Intrazerebrale Blutung in den Hirnstamm,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I61.4,Intrazerebrale Blutung in das Kleinhirn,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I61.5,Intrazerebrale intraventrikuläre Blutung,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I61.6,Intrazerebrale Blutung an mehreren Lokalisationen,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I61.8,Sonstige intrazerebrale Blutung,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I61.9,Intrazerebrale Blutung nicht näher bezeichnet,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I63.0,Hirninfarkt durch Thrombose präzerebraler Arterien,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I63.1,Hirninfarkt durch Embolie präzerebraler Arterien,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I63.2,Hirninfarkt durch nicht näher bezeichneten Verschluss oder Stenose präzerebraler Arterien,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I63.3,Hirninfarkt durch Thrombose zerebraler Arterien,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I63.4,Hirninfarkt durch Embolie zerebraler Arterien,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I63.5,Hirninfarkt durch nicht näher bezeichneten Verschluss oder Stenose zerebraler Arterien,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I63.6,Hirninfarkt durch Thrombose der Hirnvenen nichteitrig,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I63.8,Sonstiger Hirninfarkt,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I63.9,Hirninfarkt nicht näher bezeichnet,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I64,Schlaganfall nicht als Blutung oder Infarkt bezeichnet,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I69.0,Folgen einer Subarachnoidalblutung,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I69.1,Folgen einer intrazerebralen Blutung,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I69.2,Folgen einer sonstigen nichttraumatischen intrakraniellen Blutung,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I69.3,Folgen eines Hirninfarktes,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I69.4,Folgen eines Schlaganfalls nicht als Blutung oder Infarkt bezeichnet,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I69.8,Folgen sonstiger und nicht näher bezeichneter zerebrovaskulärer Krankheiten,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+R26.0,Ataktischer Gang,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+R26.1,Paretischer Gang,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+R26.2,Gehbeschwerden anderenorts nicht klassifiziert,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
