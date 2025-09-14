@@ -24,12 +24,6 @@ jobs:
         run: |
           python build_script.py --onefile --name BVBChecker --noconsole
 
-      - name: Upload EXE artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: BVBChecker-exe
-          path: dist/BVBChecker.exe
-
       - name: Package installer zip
         run: |
           copy dist\BVBChecker.exe BVBChecker.exe
@@ -41,4 +35,12 @@ jobs:
         with:
           name: BVBChecker-Installer
           path: BVBChecker_Installer.zip
+
+
+      - name: Upload EXE artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: BVBChecker-exe
+          path: dist/BVBChecker.exe
+
 
