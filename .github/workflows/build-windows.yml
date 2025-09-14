@@ -30,3 +30,15 @@ jobs:
           name: BVBChecker-exe
           path: dist/BVBChecker.exe
 
+      - name: Package installer zip
+        run: |
+          copy dist\BVBChecker.exe BVBChecker.exe
+          if not exist install.bat ( echo install.bat fehlt & exit /b 1 )
+          powershell Compress-Archive -Path BVBChecker.exe, install.bat -DestinationPath BVBChecker_Installer.zip -Force
+
+      - name: Upload installer zip
+        uses: actions/upload-artifact@v4
+        with:
+          name: BVBChecker-Installer
+          path: BVBChecker_Installer.zip
+
