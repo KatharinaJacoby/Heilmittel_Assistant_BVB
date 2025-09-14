@@ -1,0 +1,131 @@
+icd,title,group,eligibility,requires_second_icd,second_icd_hint,acute_window_months,notes,source_url,source_version
+B94.1,Folgezustände der Virusenzephalitis,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C00,-,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C70.0,Hirnhäute,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C70.1,Rückenmarkhäute,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C70.9,Meningen nicht näher bezeichnet,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.0,Zerebrum ausgenommen Hirnlappen und Ventrikel,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.1,Frontallappen,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.2,Temporallappen,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.3,Parietallappen,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.4,Okzipitallappen,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.5,Hirnventrikel,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.6,Zerebellum,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.7,Hirnstamm,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.8,Gehirn mehrere Teilbereiche überlappend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C71.9,Gehirn nicht näher bezeichnet,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C72.0,Rückenmark,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C72.1,Cauda equina,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C72.2,Nn. olfactorii [I. Hirnnerv],,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C72.3,N. opticus [II. Hirnnerv],,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C72.4,N. vestibulocochlearis [VIII. Hirnnerv],,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C72.5,Sonstige und nicht näher bezeichnete Hirnnerven,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C72.8,Gehirn und andere Teile des Zentralnervensystems mehrere Teilbereiche überlappend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+C72.9,Zentralnervensystem nicht näher bezeichnet,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G10,Chorea Huntington,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G11.0,Angeborene nichtprogressive Ataxie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G11.1,Früh beginnende zerebellare Ataxie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G11.2,Spät beginnende zerebellare Ataxie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G11.3,Zerebellare Ataxie mit defektem DNA-Reparatursystem,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G11.4,Hereditäre spastische Paraplegie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G11.8,Sonstige hereditäre Ataxien,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G11.9,Hereditäre Ataxie nicht näher bezeichnet,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G12.0,Infantile spinale Muskelatrophie Typ I [Typ Werdnig-Hofmann],,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G12.1,Sonstige vererbte spinale Muskelatrophie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G12.2,Motoneuron-Krankheit,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G12.8,Sonstige spinale Muskelatrophien und verwandte Syndrome,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G12.9,Spinale Muskelatrophie nicht näher bezeichnet,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G14,Postpoliosyndrom,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G20.1,Primäres Parkinson-Syndrom mit mäßiger bis schwerer Beeinträchtigung (Stadien 3 oder 4 nach Hoehn und Yahr),,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G20.2,Primäres Parkinson-Syndrom mit schwerster Beeinträchtigung (Stadium 5 nach Hoehn und Yahr),,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G21.3,Postenzephalitisches Parkinson-Syndrom,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G21.4,Vaskuläres Parkinson-Syndrom,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G21.8,Sonstiges sekundäres Parkinson-Syndrom,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G24.3,Torticollis spasticus,,BVB,False,,,nur bei gleichzeitiger leitliniengerechter medikamentöser Therapie,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G35.0,Erstmanifestation einer multiplen Sklerose,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G35.1,Multiple Sklerose mit vorherrschend schubförmigem Verlauf,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G35.2,Multiple Sklerose mit primär-chronischem Verlauf,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G35.3,Multiple Sklerose mit sekundär-chronischem Verlauf,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G35.9,Multiple Sklerose nicht näher bezeichnet,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G36.0,Neuromyelitis optica [Devic-Krankheit],,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G36.1,Akute und subakute hämorrhagische Leukoenzephalitis [Hurst],,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G36.8,Sonstige näher bezeichnete akute disseminierte Demyelinisation,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G36.9,Akute disseminierte Demyelinisation nicht näher bezeichnet,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G37.0,Diffuse Hirnsklerose,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G37.1,Zentrale Demyelinisation des Corpus callosum,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G37.2,Zentrale pontine Myelinolyse,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G37.3,Myelitis transversa acuta bei demyelinisierender Krankheit des Zentralnervensystems,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G37.4,Subakute nekrotisierende Myelitis [Foix-Alajouanine-Syndrom],,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G37.5,Konzentrische Sklerose [Baló-Krankheit],,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G37.8,Sonstige näher bezeichnete demyelinisierende Krankheiten des Zentralnervensystems,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G37.9,Demyelinisierende Krankheit des Zentralnervensystems nicht näher bezeichnet,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G60.0,Hereditäre sensomotorische Neuropathie,,BVB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G60.8,Sonstige hereditäre und idiopathische Neuropathien,,BVB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G61.0,Guillain-Barré-Syndrom,,BVB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G61.8,Sonstige Polyneuritiden,,BVB,False,,,nur chronisch inflammatorische demyelinisierende Polyradikuloneuropathie (CIDP),local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G70.0,Myasthenia gravis,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G70.2,Angeborene oder entwicklungsbedingte Myasthenie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G71.0,Muskeldystrophie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G71.1,Myotone Syndrome,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G71.2,Angeborene Myopathien,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G71.3,Mitochondriale Myopathie anderenorts nicht klassifiziert,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G72.3,Periodische Lähmung,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G72.4,Entzündliche Myopathie anderenorts nicht klassifiziert,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G73.6,Myopathie bei Stoffwechselerkrankungen,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G80.0,Spastische tetraplegische Zerebralparese,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G80.1,Spastische diplegische Zerebralparese,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G80.2,Infantile hemiplegische Zerebralparese,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G80.3,Dyskinetische Zerebralparese,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G80.4,Ataktische Zerebralparese,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G80.8,Sonstige infantile Zerebralparese,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G80.9,Infantile Zerebralparese nicht näher bezeichnet,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G81.0,Schlaffe Hemiparese und Hemiplegie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G81.1,Spastische Hemiparese und Hemiplegie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G82.0,Schlaffe Paraparese und Paraplegie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G82.1,Spastische Paraparese und Paraplegie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G82.2,Paraparese und Paraplegie nicht näher bezeichnet,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G82.3,Schlaffe Tetraparese und Tetraplegie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G82.4,Spastische Tetraparese und Tetraplegie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G82.5,Tetraparese und Tetraplegie nicht näher bezeichnet,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G91.2,Normaldruckhydrozephalus,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G93.1,Anoxische Hirnschädigung anderenorts nicht klassifiziert,,LHB,False,,,Wachkoma (apallisches Syndrom auch infolge Hypoxie),local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G93.80,Apallisches Syndrom,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+G95.0,Syringomyelie und Syringobulbie,,LHB,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.0,Subarachnoidalblutung vom Karotissiphon oder der Karotisbifurkation ausgehend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.1,Subarachnoidalblutung von der A. cerebri media ausgehend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.2,Subarachnoidalblutung von der A. communicans anterior ausgehend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.3,Subarachnoidalblutung von der A. communicans posterior ausgehend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.4,Subarachnoidalblutung von der A. basilaris ausgehend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.5,Subarachnoidalblutung von der A. vertebralis ausgehend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.6,Subarachnoidalblutung von sonstigen intrakraniellen Arterien ausgehend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.7,Subarachnoidalblutung von nicht näher bezeichneter intrakranieller Arterie ausgehend,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.8,Sonstige Subarachnoidalblutung,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I60.9,Subarachnoidalblutung nicht näher bezeichnet,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I61.0,Intrazerebrale Blutung in die Großhirnhemisphäre subkortikal,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I61.1,Intrazerebrale Blutung in die Großhirnhemisphäre kortikal,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I61.2,Intrazerebrale Blutung in die Großhirnhemisphäre nicht näher bezeichnet,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I61.3,Intrazerebrale Blutung in den Hirnstamm,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I61.4,Intrazerebrale Blutung in das Kleinhirn,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I61.5,Intrazerebrale intraventrikuläre Blutung,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I61.6,Intrazerebrale Blutung an mehreren Lokalisationen,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I61.8,Sonstige intrazerebrale Blutung,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I61.9,Intrazerebrale Blutung nicht näher bezeichnet,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I63.0,Hirninfarkt durch Thrombose präzerebraler Arterien,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I63.1,Hirninfarkt durch Embolie präzerebraler Arterien,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I63.2,Hirninfarkt durch nicht näher bezeichneten Verschluss oder Stenose präzerebraler Arterien,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I63.3,Hirninfarkt durch Thrombose zerebraler Arterien,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I63.4,Hirninfarkt durch Embolie zerebraler Arterien,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I63.5,Hirninfarkt durch nicht näher bezeichneten Verschluss oder Stenose zerebraler Arterien,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I63.6,Hirninfarkt durch Thrombose der Hirnvenen nichteitrig,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I63.8,Sonstiger Hirninfarkt,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I63.9,Hirninfarkt nicht näher bezeichnet,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I64,Schlaganfall nicht als Blutung oder Infarkt bezeichnet,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I69.0,Folgen einer Subarachnoidalblutung,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I69.1,Folgen einer intrazerebralen Blutung,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I69.2,Folgen einer sonstigen nichttraumatischen intrakraniellen Blutung,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I69.3,Folgen eines Hirninfarktes,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I69.4,Folgen eines Schlaganfalls nicht als Blutung oder Infarkt bezeichnet,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+I69.8,Folgen sonstiger und nicht näher bezeichneter zerebrovaskulärer Krankheiten,,BVB,False,,,Längstens 1 Jahr nach Akutereignis,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+R26.0,Ataktischer Gang,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+R26.1,Paretischer Gang,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01
+R26.2,Gehbeschwerden anderenorts nicht klassifiziert,,NONE,False,,,,local-file:Heilmittel_Diagnoseliste_Stand_01_Juli_2025.pdf,2025-07-01

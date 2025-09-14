@@ -1,0 +1,23 @@
+
+Betreff: Review-Anfrage – BVBChecker (FastAPI Tool für BVB-Prüfung)
+
+Hallo <Name>,
+
+ich habe ein lokales FastAPI-Tool („BVBChecker“) gebaut, das prüft, ob ICD-10-Codes nach KBV als Besonderer Verordnungsbedarf (BVB) gelten. 
+Es läuft offline auf Windows, liefert ein EXE, Tests und Install-Dokumentation.
+
+Ich hätte gerne ein kurzes Architektur-/Code-Review zu folgenden Punkten:
+- API-Design und Versionierung
+- Struktur der Regel-Engine (JSON/CSV)
+- Packaging/Distribution auf Windows
+- Teststrategie und fehlende Edge Cases
+- Sicherheitshärtung unter Windows
+
+Bitte ignoriere die inhaltliche Vollständigkeit der KBV-Regeln – das steht noch aus. Fokus ist auf Struktur und Wartbarkeit.
+
+Repo + API-Quicksheet liegen bei. Eine 20-Minuten-Testanleitung findest du in der README. 
+
+Dein Feedback aus .NET-/Windows-Sicht wäre super wertvoll. Danke!
+
+Beste Grüße
+<Katharina>
