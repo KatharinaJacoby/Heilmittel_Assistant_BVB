@@ -68,7 +68,7 @@ docker run -p 8000:8000 bvb-checker:latest
 ### Priorität 1 (Diese Woche)
 - [ ] Docker-Container builden und deployen
 - [ ] Load Testing (Docker läuft auf Standard-Hardware)
-- [ ] 2-3 Ärzte für Pilotbetrieb rekrutieren
+- [ ] 2-3 ÄrztInnen für Pilotbetrieb finden
 
 ### Priorität 2 (Nächste 2 Wochen)  
 - [ ] 50+ Test-Fälle mit echten Ärzten durchführen
@@ -98,14 +98,11 @@ docker run -p 8000:8000 bvb-checker:latest
 ## 📈 **Erfolgsmessung**
 
 **MVP-Erfolgskriterien:**
-- [ ] 90%+ Ärzte bewerten als "hilfreich"
+- [ ] ÄrztInnen bewerten als "hilfreich"
 - [ ] < 5% False-Positive Rate
 - [ ] < 2 Sekunden Antwortzeit
 - [ ] 0 kritische Bugs nach 100 Tests
 
-## 💡 **Pro-Tipp für Prod**
-
-Der größte Wert liegt in **schneller Iteration mit echten Ärzten**. Lieber in 2 Wochen mit 3 Praxen starten als 2 Monate perfektionieren.
 
 ---
 
