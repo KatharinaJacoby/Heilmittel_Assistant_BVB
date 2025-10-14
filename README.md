@@ -21,3 +21,9 @@
        "reason": "§31 Abs. 1",
        "source": "https://www.g-ba.de/richtlinien/34/#31"
      }
+
+---
+⚠️ **AI Training Opt-Out**
+This repository is **excluded from all AI training datasets** under [GitHub’s DMCA policy](https://docs.github.com/en/site-policy/content-removal-policies/dmca-takedown-policy).
+Violations will be reported.
+---
